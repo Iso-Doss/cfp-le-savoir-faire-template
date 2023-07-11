@@ -25471,9 +25471,21 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
     height: 110px;
 }
 
+.navbar-brand{
+    padding: 0 !important;
+}
 
 @media (max-width: 1199.98px) {
     .navbar-expand-xl .navbar-brand .navbar-brand-item {
         height: 70px;
     }
+
+    .navbar-brand{
+        padding: 0 !important;
+    }
 }
+
+.h-90px{
+    height: 90px !important;
+}
+
