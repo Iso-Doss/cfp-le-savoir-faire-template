@@ -25490,8 +25490,8 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 }
 
 .dropdown-item {
-    /*overflow: hidden;*/
-    /*white-space: nowrap;*/
-    overflow: scroll;
-    white-space: normal;
+    overflow: hidden;
+    white-space: nowrap;
+    /*overflow: scroll;*/
+    /*white-space: normal;*/
 }
